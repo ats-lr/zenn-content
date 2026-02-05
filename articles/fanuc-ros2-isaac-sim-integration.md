@@ -3,7 +3,7 @@ title: "FANUC × ROS2 × Isaac Sim 連携ガイド：製造業向けフィジカ
 emoji: "🤖"
 type: "tech"
 topics: ["ROS2", "FANUC", "IsaacSim", "ロボティクス", "製造業"]
-published: false
+published: true
 ---
 
 FANUCが公式ROS2ドライバをリリースし、NVIDIAとのコラボレーションでIsaac Simとの連携が可能に。日本の製造業におけるフィジカルAI導入の新時代が始まった。
@@ -18,16 +18,6 @@ FANUCが公式ROS2ドライバをリリースし、NVIDIAとのコラボレー�
 | **連携** | NVIDIA Isaac SimとFANUC ROBOGUIDEの統合 |
 | **対象** | 3kg〜2.3トンの全FANUCロボット |
 | **特徴** | 1msの超高速制御、Python対応、デジタルツイン |
-
----
-
-## 目次
-
-1. [背景：なぜ今FANUCがROS2対応したのか](#1-背景なぜ今fanucがros2対応したのか)
-2. [FANUC ROS2ドライバの概要](#2-fanuc-ros2ドライバの概要)
-3. [NVIDIA Isaac Simとの連携](#3-nvidia-isaac-simとの連携)
-4. [実践：環境構築手順](#4-実践環境構築手順)
-5. [ユースケース](#5-ユースケース)
 
 ---
 
