@@ -6,7 +6,7 @@ topics: ["DGXSpark", "GR00T", "CUDA", "PyTorch", "transformers"]
 published: true
 ---
 
-## TL;DR
+## 要約
 
 - **DGX Spark（Blackwell GB10 + ARM64 + CUDA 13.0）** という公式サポート外の環境で **GR00T N1.6-3B** を動作させることに成功
 - **12個の互換性問題**を解決（transformers 5.0 + PyTorch 2.9.1 + CUDA 13.0）

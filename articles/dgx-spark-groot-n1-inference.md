@@ -6,7 +6,7 @@ topics: ["DGXSpark", "GR00T", "PyTorch", "ロボティクス", "AI"]
 published: true
 ---
 
-## TL;DR
+## 要約
 
 - **GR00T N1.6-3B** をDGX Sparkで動かし、**ロボットアクションを生成・可視化**
 - 推論実行時に **追加4個の互換性パッチ** を発見・解決（合計16個）
