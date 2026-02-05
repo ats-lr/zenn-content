@@ -3,7 +3,7 @@ title: "DGX Spark (Blackwell GB10) でNVIDIA GR00T N1.6-3Bを動かす完全ガ�
 emoji: "🤖"
 type: "tech"
 topics: ["DGXSpark", "GR00T", "CUDA", "PyTorch", "transformers"]
-published: false
+published: true
 ---
 
 ## TL;DR
